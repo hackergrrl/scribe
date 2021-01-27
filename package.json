@@ -1,0 +1,11 @@
+{
+  "name": "scribe",
+  "description": "",
+  "author": "Kira Oakley <kira@eight.net>",
+  "version": "0.0.0",
+  "keywords": [],
+  "dependencies": {
+    "ecstatic": "^4.1.4",
+    "ws": "^7.3.1"
+  }
+}
