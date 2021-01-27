@@ -1,10 +1,13 @@
 # scribe
 
-a hacky typing assistant using chromium's built-in speech recognition cloud service
+a hacky voice-based typing assistant using chromium's built-in speech recognition cloud service.
+
+the idea is to be able to hold down a key on my keyboard, say things, and have what i said be transcribed as if my keyboard has just typed it!
 
 ## install + use
 
 ### install prerequisites
+- linux (probably)
 - chromium or chrome web browser
 - `xdotool`
 - `alsa-utils`
