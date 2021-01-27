@@ -23,10 +23,14 @@ if you know of a better local-only one, please [email me](mailto:kira@eight45.ne
 
 ### install prerequisites
 - linux (probably)
+- [nodejs](https://nodejs.org)
 - chromium or chrome web browser
 - `xdotool`
 - `alsa-utils`
 - `libnotify-bin`
+
+### setup this repo
+- run `npm install` in this directory
 
 ### install global-keypress fork
 this is a local keylogger, to track when you're holding down the dictation
