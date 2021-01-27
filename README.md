@@ -14,6 +14,11 @@ it also uses
 - xdotool: a cool linux cli program that lets you simulate mouse and keyboard actions
 - notify-send: another nice linux program for sending "desktop notifications" to yourself
 
+## privacy
+this uses g**gle apis to transcribe your voice to text. it only listens when you hold down the trigger key. this is gross, but it's the only good accessible speech-to-text engine i know of.
+
+if you know of a better local-only one, please let me know! i'd be verrry happy to collaborate on integrating it
+
 ## install + use
 
 ### install prerequisites
